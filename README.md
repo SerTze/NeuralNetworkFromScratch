@@ -1,5 +1,5 @@
 # Neural Network from Scratch
-This is a Python implementation of a neural network built from scratch, using only NumPy for numerical computations. The network is designed to classify images from the MNIST dataset, achieving an accuracy of over 96% on the validation set.
+This is a Python implementation of a neural network built from scratch, using only NumPy for numerical computations. The network was also tested to classify images from the MNIST dataset, achieving an accuracy of over 96% on the validation set.
 
 The purpose of this project is to provide a clear and concise implementation of the fundamental concepts behind neural networks, including feedforward and backpropagation algorithms, weight initialization, activation functions, and optimization techniques such as stochastic gradient descent.
 
